@@ -4,7 +4,25 @@ A classic Tic-Tac-Toe game implemented in Python using Pygame. This project feat
 
 # NOTE TO RUN THE GAME!
 ## After unzipping the downloaded file, open the folder in Visual Studio Code as is. 
+- If an error such as "FileNotFoundError: No file 'images/themes/default/background.png' found in working directory" appears, you can try changing the file path.
+  ```bash
+  themes = {
+    "default": {
+        "image_path": "TicTacToe-main/images/themes/default/", #####change or delete "TicTacToe-main/"
+        "sound_path": "TicTacToe-main/sounds/default/"
+    },
+    "classic": {
+        "image_path": "TicTacToe-main/images/themes/classic/", ####change or delete "TicTacToe-main/"
+        "sound_path": "TicTacToe-main/sounds/classic/"
+    },
+    "retro": {
+        "image_path": "TicTacToe-main/images/themes/retro/", ####change or delete "TicTacToe-main/"
+        "sound_path": "TicTacToe-main/sounds/retro/"
+    }
+}
+
 - Run main.py file
+
 
 ## Features
 
