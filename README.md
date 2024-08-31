@@ -22,6 +22,7 @@ A classic Tic-Tac-Toe game implemented in Python using Pygame. This project feat
 
 - Run main.py file
 
+# main.py
 
 ## Features
 
@@ -32,8 +33,6 @@ A classic Tic-Tac-Toe game implemented in Python using Pygame. This project feat
 - **Dynamic End Screens**: Shows different screens based on the game result, including win, draw, and game over conditions.
 - **Windowed Mode**: The game runs in a windowed screen size of 600x600 pixels, providing a consistent and compact play 
 area.
-
-# main.py
 
 ## Bug Fixes
 
