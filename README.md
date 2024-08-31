@@ -19,7 +19,6 @@ A classic Tic-Tac-Toe game implemented in Python using Pygame. This project feat
         "image_path": "TicTacToe-main/images/themes/retro/", ####change or delete "TicTacToe-main/"
         "sound_path": "TicTacToe-main/sounds/retro/"
     }
-}
 
 - Run main.py file
 
