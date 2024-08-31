@@ -19,16 +19,16 @@ GREEN = (0, 128, 0)
 # Theme-related variables
 themes = {
     "default": {
-        "image_path": "TicTacToe-main/images/themes/default/",
-        "sound_path": "TicTacToe-main/sounds/default/"
+        "image_path": "TicTacToe-main/images/themes/default/", #change or delete "TicTacToe-main/" If an error such as "FileNotFoundError: No file 'images/themes/default/background.png' found in working directory" appears
+        "sound_path": "TicTacToe-main/sounds/default/" #change or delete "TicTacToe-main/" If an error such as "FileNotFoundError: No file 'images/themes/default/background.png' found in working directory" appears
     },
     "classic": {
-        "image_path": "TicTacToe-main/images/themes/classic/",
-        "sound_path": "TicTacToe-main/sounds/classic/"
+        "image_path": "TicTacToe-main/images/themes/classic/", #change or delete "TicTacToe-main/" If an error such as "FileNotFoundError: No file 'images/themes/default/background.png' found in working directory" appears
+        "sound_path": "TicTacToe-main/sounds/classic/" #change or delete "TicTacToe-main/" If an error such as "FileNotFoundError: No file 'images/themes/default/background.png' found in working directory" appears
     },
     "retro": {
-        "image_path": "TicTacToe-main/images/themes/retro/",
-        "sound_path": "TicTacToe-main/sounds/retro/"
+        "image_path": "TicTacToe-main/images/themes/retro/", #change or delete "TicTacToe-main/" If an error such as "FileNotFoundError: No file 'images/themes/default/background.png' found in working directory" appears
+        "sound_path": "TicTacToe-main/sounds/retro/" #change or delete "TicTacToe-main/" If an error such as "FileNotFoundError: No file 'images/themes/default/background.png' found in working directory" appears
     }
 }
 selected_theme = "default"
