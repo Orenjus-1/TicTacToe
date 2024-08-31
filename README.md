@@ -3,6 +3,7 @@
 A classic Tic-Tac-Toe game implemented in Python using Pygame. This project features both single-player and multiplayer modes, a customizable theme system, sound effects, and a score-tracking mechanism. This was Made and Developed with the assistance from AI ChatGPT.
 
 # NOTE TO RUN THE GAME!
+## Download it as a zip
 ## After unzipping the downloaded file, open the folder in Visual Studio Code as is. 
 - If an error such as "FileNotFoundError: No file 'images/themes/default/background.png' found in working directory" appears, you can try changing the file path.
   ```bash
